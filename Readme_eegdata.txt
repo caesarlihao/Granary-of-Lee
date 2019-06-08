@@ -1,0 +1,2 @@
+1. All data can be used for calculation directly after loading into Matlab. 
+2. Data were obtained from 62 electrodes, i.e. 64 electrodes excluding M1 and M2. The arrangement of electrodes is stored in the 'electrode.dat' file. 
